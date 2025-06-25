@@ -22,7 +22,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
     <td><img src="./folder/잠만보.png" width="100"/></td>
     <td><img src="./folder/파오리.png"" width="100"/></td>
     <td><img src="./folder/고라파덕.png"" width="100"/></td>
-    <td><img src="./folder/모래두지.png"" width="100"/></td>
+    <td><img src="./folder/망나뇽.png"" width="100"/></td>
   </tr>
   <tr>
     <td><a href=""><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
