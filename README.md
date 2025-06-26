@@ -36,6 +36,10 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 
 --- 
 # 📃프로젝트 기획서
+<details>
+<summary>프로젝트 기획서</summary>
+
+</details>
 
 ## 툭툭(Tooktook) 프로젝트 요구사항 정의서
 
