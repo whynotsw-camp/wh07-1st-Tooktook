@@ -29,7 +29,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
       <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
       <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
       <td align="center"><a href="n"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
-      <td align="center"><a href="https://github.com/gayeoniee"><img src="https://img.shields.io/badge/GitHub-gray-Link-MediumSeaGreen?logo=github"/></a></td>
+      <td align="center"><a href="https://github.com/gayeoniee"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
     </tr>
   </table>
 </div>
