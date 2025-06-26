@@ -11,7 +11,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 
 <h2>👥 팀원 소개</h2>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <th>이정석</th>
@@ -32,7 +32,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
       <td><a href=""><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
     </tr>
   </table>
-</p>
+</div>
 
 --- 
 # 📃프로젝트 기획서
