@@ -3,8 +3,8 @@
 LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 
 <p align="center">
-  <img src="./folder/툭툭이.png" alt="툭툭이" width="220"/>
-  <img src="./folder/툭툭이2.png"" alt="툭툭이2" width="220"/>
+  <img src="./pic/툭툭이.png" alt="툭툭이" width="220"/>
+  <img src="./pic/툭툭이2.png"" alt="툭툭이2" width="220"/>
   <br/>
   <em style="font-size: 13px; color: gray;">※ 이 이미지는 GPT로 생성된 캐릭터입니다</em>
 </p>
@@ -20,10 +20,10 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
       <th>홍가연</th>
     </tr>
     <tr>
-      <td><img src="./folder/잠만보.png" width="150"/></td>
-      <td><img src="./folder/파오리.png"" width="150"/></td>
-      <td><img src="./folder/고라파덕.png"" width="150"/></td>
-      <td><img src="./folder/망나뇽.png"" width="150"/></td>
+      <td><img src="./pic/잠만보.png" width="150"/></td>
+      <td><img src="./pic/파오리.png"" width="150"/></td>
+      <td><img src="./pic/고라파덕.png"" width="150"/></td>
+      <td><img src="./pic/망나뇽.png"" width="150"/></td>
     </tr>
     <tr>
       <td><a href=""><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
@@ -70,5 +70,8 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 | 목적     | 실시간 음성 인식과 AI 추천을 통해 상담사의 대응 효율성과 정확성을 높이는 웹 기반 상담 지원 시스템 개발 |
 | 대상 사용자 | 상담사                                                       |
 | 시스템 범위 | 음성 입력 → 실시간 텍스트 표시 → 자동 응답 추천 → 상담 요약 저장              |
+
+### 흐름도
+<img src="./pic/흐름도.png" alt="흐름도" width="1000"/>
 
 
