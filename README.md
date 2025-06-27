@@ -154,6 +154,6 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-6e5a90?style=flat&logo=sentencetransformers&logoColor=white)
 ![GeminiApi](https://img.shields.io/badge/GeminiApi-9f22c8?style=flat&logo=gemini&logoColor=white)
-![GPTApi](https://img.shields.io/badge/GPTApi-6e5a90?style=flat&logo=gpt&logoColor=white)
+![GPTApi](https://img.shields.io/badge/GPTApi-29051f?style=flat&logo=gpt&logoColor=white)
 ![FastApi](https://img.shields.io/badge/FastApi-3612d8?style=flat&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-09cee1?style=flat&logo=chromadb&logoColor=black)
