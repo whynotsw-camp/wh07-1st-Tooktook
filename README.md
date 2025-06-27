@@ -40,7 +40,9 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 <summary>프로젝트 기획안</summary>
 <a href="툭툭 기획안.pdf" target="_blank">기획안 (PDF)</a>
 <br><br>
+  
 ---
+
 </details>
 
 <details>
