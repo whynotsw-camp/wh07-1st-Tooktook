@@ -26,16 +26,22 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
       <td><img src="./pic/망나뇽.png"" width="150"/></td>
     </tr>
     <tr>
-      <td><a href=""><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
-      <td><a href=""><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
-      <td><a href="n"><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
-      <td><a href=""><img src="https://img.shields.io/badge/GitHub-Link-black?logo=github"/></a></td>
+      <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
+      <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
+      <td align="center"><a href="n"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
+      <td align="center"><a href="https://github.com/gayeoniee"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
     </tr>
   </table>
 </div>
 
 --- 
 # 📃프로젝트 기획서
+<details>
+<summary>프로젝트 기획서</summary>
+
+</details>
+
+## 툭툭(Tooktook) 프로젝트 요구사항 정의서
 
 ## 1차 프로젝트 개요
 ### 툭툭(Tooktook)
@@ -74,4 +80,36 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 ### 흐름도
 <img src="./pic/흐름도.png" alt="흐름도" width="1000"/>
 
+## 기능 요구사항
+| ID   | 기능명      | 설명                   | 우선순위 |
+| ---- | -------- | -------------------- | ---- |
+| F-01 | STT 변환   | 수신된 음성을 실시간 텍스트로 변환  | 중    |
+| F-02 | 텍스트 표시   | 변환된 텍스트를 화면에 실시간 출력  | 상    |
+| F-03 | 키워드 추출   | 발화에서 주요 키워드를 추출      | 상    |
+| F-04 | 응답 추천    | 키워드 기반으로 문서/응답을 추천   | 상    |
+| F-05 | 상담 요약    | 흐름을 요약한 자동 요약 생성  | 중    |
+| F-06 | 상담 저장    | 전체 상담 내용 및 요약을 저장    | 상    |
+
+
+## 비기능 요구사항
+| 항목   | 요구사항                         |
+| ---- | ---------------------------- |
+| 실시간성 | 발화 후 3초 이내로 텍스트 및 추천 응답 제공   |
+| 정확성  | 키워드 추출 및 추천 응답 정확도 80% 이상    |
+| 보안   | 저장된 상담 내용은 암호화 저장 필요         |
+| 확장성  | 향후 챗봇 연동 또는 FAQ 자동화 가능 구조 고려 |
+
+--- 
+
+## 🎬 툭툭 사용 시나리오
+
+**⏱ 흐름**
+
+- 상담사는 툭툭 시스템 웹 화면을 열고 상담 시작 버튼을 클릭
+- 전화 연결
+- 툭툭은 음성을 실시간으로 텍스트로 변환
+- 텍스트 내 주요 키워드(ex. 요금, 이자, 대출) 추출
+- 해당 키워드에 매칭된 응답 문구나 문서를 추천
+- 상담사는 추천된 응답을 고객에게 전달
+- 상담이 끝나면 자동 요약이 생성되고 저장됨
 
