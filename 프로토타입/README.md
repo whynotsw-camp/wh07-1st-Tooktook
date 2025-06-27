@@ -5,12 +5,10 @@
 
 https://sjun4040.github.io/prototype/
 <details>
-<summary>시스템 구조 및 기술 선택 배경</summary>
+<summary>툭툭 프로토타입</summary>
 
 <br>
 
-<a href="[툭툭 프로토타입](https://sjun4040.github.io/prototype/)" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 4px;">
-툭툭 프로토타입
-</a>
+[**툭툭 프로토타입 보러가기**](https://sjun4040.github.io/prototype/)
 
 </details>
