@@ -26,8 +26,8 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
       <td><img src="./pic/망나뇽.png"" width="150"/></td>
     </tr>
     <tr>
-      <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
-      <td align="center"><a href=""><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
+      <td align="center"><a href="https://github.com/Zdeik"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
+      <td align="center"><a href="https://github.com/sjun4040"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
       <td align="center"><a href="https://github.com/meanresult"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
       <td align="center"><a href="https://github.com/gayeoniee"><img src="https://img.shields.io/badge/GitHub-Link-MediumSeaGreen?logo=github"/></a></td>
     </tr>
@@ -56,6 +56,14 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 - RAG vs Fine-tuning 선택 배경
 
 ---
+
+</details>
+
+<details>
+<summary>프로토타입</summary>
+
+> 📦 **[툭툭 프로토타입 보러가기](https://sjun4040.github.io/prototype/)**  
+> 시스템이 실제로 어떻게 작동하는지 직접 확인해보세요!
 
 </details>
 
@@ -105,8 +113,9 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 | F-02 | 텍스트 표시   | 변환된 텍스트를 화면에 실시간 출력  | 상    |
 | F-03 | 키워드 추출   | 발화에서 주요 키워드를 추출      | 상    |
 | F-04 | 응답 추천    | 키워드 기반으로 문서/응답을 추천   | 상    |
-| F-05 | 상담 요약    | 흐름을 요약한 자동 요약 생성  | 중    |
-| F-06 | 상담 저장    | 전체 상담 내용 및 요약을 저장    | 상    |
+| F-05 | 검색    |  상담사가 원할 때 메뉴얼 검색 | 중  |
+| F-06 | 상담 요약    | 흐름을 요약한 자동 요약 생성  | 중    |
+| F-07 | 상담 저장    | 전체 상담 내용 및 요약을 저장    | 상    |
 
 
 ## 비기능 요구사항
@@ -132,3 +141,32 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 - 상담이 끝나면 자동 요약이 생성되고 저장됨
 
 
+## WBS
+<img src="./pic/WBS.png" alt="흐름도" width="1000"/>
+
+
+## 사용 기술
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 📚 Libraries & Frameworks
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-6e5a90?style=flat&logo=sentencetransformers&logoColor=white)
+![GeminiApi](https://img.shields.io/badge/GeminiApi-9f22c8?style=flat&logo=gemini&logoColor=white)
+![GPTApi](https://img.shields.io/badge/GPTApi-29051f?style=flat&logo=gpt&logoColor=white)
+![FastApi](https://img.shields.io/badge/FastApi-3612d8?style=flat&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-09cee1?style=flat&logo=chromadb&logoColor=black)
