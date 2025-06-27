@@ -133,6 +133,10 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 - 상담이 끝나면 자동 요약이 생성되고 저장됨
 
 
+## WBS
+<img src="./pic/WBS.png" alt="흐름도" width="1000"/>
+
+
 ## 사용 기술
 
 ### 💻 Languages
