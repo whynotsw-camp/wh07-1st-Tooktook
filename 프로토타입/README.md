@@ -2,3 +2,5 @@
 
 백엔드는 추후 추가 예정이며 이런 방향성을 가지고 나가겠다는 UI만을 만든 모델입니다.   
 툭툭이는 저희 팀의 로고이며 생성형 AI를 이용하여 만들었습니다
+
+https://whynotsw-camp.github.io/wh07-1st-Tooktook/
