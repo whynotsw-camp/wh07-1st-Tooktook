@@ -107,7 +107,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 <img src="./pic/흐름도.png" alt="흐름도" width="800"/>
 
 ### 시스템 아키텍쳐
-<img src="" alt="아키텍쳐" width="700"/>
+<img src="./pic/아키텍쳐.png" alt="아키텍쳐" width="700"/>
 
 ## 기능 요구사항
 | ID   | 기능명      | 설명                   | 우선순위 |
