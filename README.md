@@ -113,3 +113,13 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 - 상담사는 추천된 응답을 고객에게 전달
 - 상담이 끝나면 자동 요약이 생성되고 저장됨
 
+
+<details>
+<summary>시스템 구조 및 기술 선택 배경</summary>
+<a href="툭툭 시스템 구조 및 기술 선택 배경.pdf" target="_blank">시스템 구조 및 기술 선택 배경 (PDF)</a>
+
+이 문서에는 다음 내용이 포함되어 있습니다:
+- 시스템 처리 흐름
+- RAG vs Fine-tuning 선택 배경
+
+</details>
