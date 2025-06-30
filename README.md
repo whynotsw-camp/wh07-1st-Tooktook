@@ -95,6 +95,8 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 > 툭툭은 상담사가 더 전문적인 판단과 따뜻한 응대를 할 수 있도록
 > 뒤에서 조용히 보조하는 도우미입니다.
 
+---
+
 ## 📋 시스템 요약
 | 항목     | 내용                                                           |
 | ------ | ------------------------------------------------------------ |
@@ -108,6 +110,8 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 
 ### 시스템 아키텍쳐
 <img src="./pic/시스템아키텍쳐.png" alt="아키텍쳐" width="700"/>
+
+---
 
 ## 기능 요구사항
 | ID   | 기능명      | 설명                   | 우선순위 |
@@ -148,6 +152,8 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 <img src="./pic/WBS.png" alt="흐름도" width="1000"/>
 
 
+---
+
 ## 사용 기술
 
 ### 💻 Languages
@@ -172,4 +178,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 ![GeminiApi](https://img.shields.io/badge/GeminiApi-9f22c8?style=flat&logo=gemini&logoColor=white)
 ![GPTApi](https://img.shields.io/badge/GPTApi-29051f?style=flat&logo=gpt&logoColor=white)
 ![FastApi](https://img.shields.io/badge/FastApi-3612d8?style=flat&logo=fastapi&logoColor=white)
+
+### 📦 Database
+
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-09cee1?style=flat&logo=chromadb&logoColor=black)
