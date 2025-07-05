@@ -62,7 +62,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 <details>
 <summary>프로토타입</summary>
 
-> 📦 **[툭툭 프로토타입 보러가기]((https://gayeoniee.github.io/tooktook_prototype/)**  
+> 📦 **[툭툭 프로토타입 보러가기](https://gayeoniee.github.io/tooktook_prototype/)**  
 > 시스템이 실제로 어떻게 작동하는지 직접 확인해보세요!
 
 </details>
