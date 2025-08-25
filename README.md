@@ -38,7 +38,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 # 📃프로젝트 기획서
 <details>
 <summary>프로젝트 기획안</summary>
-<a href="툭툭 기획안.pdf" target="_blank">기획안 (PDF)</a>
+<a href="툭툭 기획서 PPT.pdf" target="_blank">기획안 (PDF)</a>
 <br><br>
   
 ---
@@ -62,7 +62,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 <details>
 <summary>프로토타입</summary>
 
-> 📦 **[툭툭 프로토타입 보러가기](https://sjun4040.github.io/prototype/)**  
+> 📦 **[툭툭 프로토타입 보러가기](https://gayeoniee.github.io/tooktook_prototype/)**  
 > 시스템이 실제로 어떻게 작동하는지 직접 확인해보세요!
 
 </details>
