@@ -149,7 +149,7 @@ LG U+ Why Not SW Camp 7기 툭툭 레포지토리 입니다.
 
 
 ## WBS
-<img src="./pic/WBS.png" alt="흐름도" width="1000"/>
+<img src="./pic/WBS2.png" alt="흐름도" width="1000"/>
 
 
 ---
